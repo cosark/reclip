@@ -36,6 +36,11 @@ Or with Docker:
 docker build -t reclip . && docker run -p 8899:8899 reclip
 ```
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Reclip/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/reclip"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## Usage
 
 1. Paste one or more video URLs into the input box
